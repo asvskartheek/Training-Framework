@@ -32,13 +32,10 @@ During the process, a visualization of the LR v Loss is presented. Then prompted
 
 ## My Results
 The Learning Rate Finder gave me this
-
 ![LR v Loss](./viz/lr_finder.png)
 
-I have chosen, the learning rate=1e-3 (refer to #resources to understand why?) and the number of epochs to be 5 (just a number, didn't think much).
-
-The training history is
-
+I have chosen, the learning rate=1e-3 (refer to #resources to understand why?) and the number of epochs to be 5 (just a number, didn't think much). Using these parameters, the training history is
 ![Training Process](./viz/training_proc.png)
 
+Looks decent enough, eh?
 Trained model weights are saved [here](./models/model.pth), if you want to reproduce the results.
