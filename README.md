@@ -39,3 +39,6 @@ I have chosen, the learning rate=1e-3 (refer to #resources to understand why?) a
 
 Looks decent enough, eh?
 Trained model weights are saved [here](./models/model.pth), if you want to reproduce the results.
+
+## Contribution
+If you have any suggestions or ideas, please open an issue and I'm happy to discuss.
